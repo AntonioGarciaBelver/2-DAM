@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjemploGridView_KOTLIN</string>
+    <string name="add_elemento">Añadir elemento</string>
+    <string name="borrar">Borrar</string>
+</resources>
