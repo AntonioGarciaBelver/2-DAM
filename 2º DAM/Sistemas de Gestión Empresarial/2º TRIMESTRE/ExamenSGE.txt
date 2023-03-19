@@ -1,0 +1,6 @@
+
+3 modelos
+datos de prueba demo
+tree / views
+menu con dos submenus
+hacer una funcion con un decorador que cuando el stock sea 0, el precio sea 0

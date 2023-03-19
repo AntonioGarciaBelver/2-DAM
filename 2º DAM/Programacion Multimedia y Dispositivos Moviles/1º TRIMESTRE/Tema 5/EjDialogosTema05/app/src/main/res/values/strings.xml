@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjDialogosTema05</string>
+    <string name="dialogos">Diálogos</string>
+    <string name="dialogo1">Diálogo 1</string>
+    <string name="dialogo2">Diálogo 2</string>
+    <string name="dialogo3">Diálogo 3</string>
+    <string name="dialogo4">Diálogo 4</string>
+</resources>
